@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Neeraj-chauhan12/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Neeraj-chauhan12/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Hash Table
 |  |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1399-count-largest-group](https://github.com/Neeraj-chauhan12/DSA/tree/master/1399-count-largest-group) |
+## Greedy
+|  |
+| ------- |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Neeraj-chauhan12/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+## Sorting
+|  |
+| ------- |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Neeraj-chauhan12/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 <!---LeetCode Topics End-->
