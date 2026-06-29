@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Neeraj-chauhan12/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Neeraj-chauhan12/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Neeraj-chauhan12/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1399-count-largest-group](https://github.com/Neeraj-chauhan12/DSA/tree/master/1399-count-largest-group) |
 ## Matrix
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Neeraj-chauhan12/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
