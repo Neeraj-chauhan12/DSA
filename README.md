@@ -55,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Neeraj-chauhan12/DSA/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Neeraj-chauhan12/DSA/tree/master/2000-reverse-prefix-of-word) |
+## String
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Neeraj-chauhan12/DSA/tree/master/2000-reverse-prefix-of-word) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Neeraj-chauhan12/DSA/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
