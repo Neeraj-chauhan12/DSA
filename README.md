@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Neeraj-chauhan12/DSA/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Neeraj-chauhan12/DSA/tree/master/0318-maximum-product-of-word-lengths) |
+| [0434-number-of-segments-in-a-string](https://github.com/Neeraj-chauhan12/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Neeraj-chauhan12/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
