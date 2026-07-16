@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Neeraj-chauhan12/DSA/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Neeraj-chauhan12/DSA/tree/master/0318-maximum-product-of-word-lengths) |
+| [0322-coin-change](https://github.com/Neeraj-chauhan12/DSA/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Neeraj-chauhan12/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Neeraj-chauhan12/DSA/tree/master/0485-max-consecutive-ones) |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Neeraj-chauhan12/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Neeraj-chauhan12/DSA/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Neeraj-chauhan12/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
