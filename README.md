@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Neeraj-chauhan12/DSA/tree/master/0134-gas-station) |
 | [0164-maximum-gap](https://github.com/Neeraj-chauhan12/DSA/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/Neeraj-chauhan12/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Neeraj-chauhan12/DSA/tree/master/0268-missing-number) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Neeraj-chauhan12/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Neeraj-chauhan12/DSA/tree/master/0242-valid-anagram) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Neeraj-chauhan12/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Neeraj-chauhan12/DSA/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/Neeraj-chauhan12/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Neeraj-chauhan12/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Neeraj-chauhan12/DSA/tree/master/0268-missing-number) |
