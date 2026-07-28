@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Neeraj-chauhan12/DSA/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Neeraj-chauhan12/DSA/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Neeraj-chauhan12/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0229-majority-element-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Neeraj-chauhan12/DSA/tree/master/0268-missing-number) |
 | [1399-count-largest-group](https://github.com/Neeraj-chauhan12/DSA/tree/master/1399-count-largest-group) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Neeraj-chauhan12/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Neeraj-chauhan12/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0189-rotate-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Neeraj-chauhan12/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## String
 |  |
