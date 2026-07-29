@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Neeraj-chauhan12/DSA/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Neeraj-chauhan12/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/Neeraj-chauhan12/DSA/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Neeraj-chauhan12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Neeraj-chauhan12/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Neeraj-chauhan12/DSA/tree/master/0485-max-consecutive-ones) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Neeraj-chauhan12/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Neeraj-chauhan12/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Neeraj-chauhan12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0819-most-common-word](https://github.com/Neeraj-chauhan12/DSA/tree/master/0819-most-common-word) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Neeraj-chauhan12/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Neeraj-chauhan12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0819-most-common-word](https://github.com/Neeraj-chauhan12/DSA/tree/master/0819-most-common-word) |
 | [1399-count-largest-group](https://github.com/Neeraj-chauhan12/DSA/tree/master/1399-count-largest-group) |
 ## Greedy
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Neeraj-chauhan12/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Neeraj-chauhan12/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Neeraj-chauhan12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Neeraj-chauhan12/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Neeraj-chauhan12/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Sliding Window
@@ -127,8 +131,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Neeraj-chauhan12/DSA/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Neeraj-chauhan12/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Neeraj-chauhan12/DSA/tree/master/0164-maximum-gap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Neeraj-chauhan12/DSA/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Neeraj-chauhan12/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Neeraj-chauhan12/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
