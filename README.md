@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Neeraj-chauhan12/DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Neeraj-chauhan12/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Neeraj-chauhan12/DSA/tree/master/0134-gas-station) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Neeraj-chauhan12/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Neeraj-chauhan12/DSA/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Neeraj-chauhan12/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/Neeraj-chauhan12/DSA/tree/master/0561-array-partition) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Neeraj-chauhan12/DSA/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/Neeraj-chauhan12/DSA/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
