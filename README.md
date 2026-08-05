@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Neeraj-chauhan12/DSA/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Neeraj-chauhan12/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Neeraj-chauhan12/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Neeraj-chauhan12/DSA/tree/master/0134-gas-station) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Neeraj-chauhan12/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Neeraj-chauhan12/DSA/tree/master/0268-missing-number) |
 | [1399-count-largest-group](https://github.com/Neeraj-chauhan12/DSA/tree/master/1399-count-largest-group) |
