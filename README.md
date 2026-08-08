@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Neeraj-chauhan12/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Neeraj-chauhan12/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Neeraj-chauhan12/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Neeraj-chauhan12/DSA/tree/master/0075-sort-colors) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Neeraj-chauhan12/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Neeraj-chauhan12/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0229-majority-element-ii) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Neeraj-chauhan12/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Neeraj-chauhan12/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Neeraj-chauhan12/DSA/tree/master/0164-maximum-gap) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Neeraj-chauhan12/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Neeraj-chauhan12/DSA/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Neeraj-chauhan12/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0434-number-of-segments-in-a-string](https://github.com/Neeraj-chauhan12/DSA/tree/master/0434-number-of-segments-in-a-string) |
