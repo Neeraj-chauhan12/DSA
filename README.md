@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Neeraj-chauhan12/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Neeraj-chauhan12/DSA/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Neeraj-chauhan12/DSA/tree/master/0274-h-index) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Neeraj-chauhan12/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/Neeraj-chauhan12/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Neeraj-chauhan12/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Neeraj-chauhan12/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Neeraj-chauhan12/DSA/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Neeraj-chauhan12/DSA/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Neeraj-chauhan12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Neeraj-chauhan12/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Neeraj-chauhan12/DSA/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Neeraj-chauhan12/DSA/tree/master/0561-array-partition) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
