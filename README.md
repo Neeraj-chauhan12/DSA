@@ -212,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Neeraj-chauhan12/DSA/tree/master/0287-find-the-duplicate-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Neeraj-chauhan12/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Neeraj-chauhan12/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
