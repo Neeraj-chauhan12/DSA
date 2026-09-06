@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Neeraj-chauhan12/DSA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Neeraj-chauhan12/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Neeraj-chauhan12/DSA/tree/master/0268-missing-number) |
 | [1399-count-largest-group](https://github.com/Neeraj-chauhan12/DSA/tree/master/1399-count-largest-group) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Neeraj-chauhan12/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Neeraj-chauhan12/DSA/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/Neeraj-chauhan12/DSA/tree/master/0322-coin-change) |
 ## Breadth-First Search
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Neeraj-chauhan12/DSA/tree/master/0322-coin-change) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Neeraj-chauhan12/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
