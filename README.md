@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Neeraj-chauhan12/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Neeraj-chauhan12/DSA/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/Neeraj-chauhan12/DSA/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/Neeraj-chauhan12/DSA/tree/master/0561-array-partition) |
 | [0819-most-common-word](https://github.com/Neeraj-chauhan12/DSA/tree/master/0819-most-common-word) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/Neeraj-chauhan12/DSA/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0819-most-common-word](https://github.com/Neeraj-chauhan12/DSA/tree/master/0819-most-common-word) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Neeraj-chauhan12/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Neeraj-chauhan12/DSA/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Neeraj-chauhan12/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0434-number-of-segments-in-a-string](https://github.com/Neeraj-chauhan12/DSA/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/Neeraj-chauhan12/DSA/tree/master/0500-keyboard-row) |
 | [0819-most-common-word](https://github.com/Neeraj-chauhan12/DSA/tree/master/0819-most-common-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Neeraj-chauhan12/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
