@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Neeraj-chauhan12/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Neeraj-chauhan12/DSA/tree/master/0268-missing-number) |
+| [0858-mirror-reflection](https://github.com/Neeraj-chauhan12/DSA/tree/master/0858-mirror-reflection) |
 | [1399-count-largest-group](https://github.com/Neeraj-chauhan12/DSA/tree/master/1399-count-largest-group) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Neeraj-chauhan12/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Neeraj-chauhan12/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0858-mirror-reflection](https://github.com/Neeraj-chauhan12/DSA/tree/master/0858-mirror-reflection) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Neeraj-chauhan12/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -239,4 +241,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Neeraj-chauhan12/DSA/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/Neeraj-chauhan12/DSA/tree/master/0858-mirror-reflection) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/Neeraj-chauhan12/DSA/tree/master/0858-mirror-reflection) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/Neeraj-chauhan12/DSA/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
