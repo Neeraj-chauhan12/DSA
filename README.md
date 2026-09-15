@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Neeraj-chauhan12/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Neeraj-chauhan12/DSA/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Neeraj-chauhan12/DSA/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Neeraj-chauhan12/DSA/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/Neeraj-chauhan12/DSA/tree/master/0561-array-partition) |
 | [0819-most-common-word](https://github.com/Neeraj-chauhan12/DSA/tree/master/0819-most-common-word) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Neeraj-chauhan12/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0506-relative-ranks](https://github.com/Neeraj-chauhan12/DSA/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/Neeraj-chauhan12/DSA/tree/master/0561-array-partition) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Neeraj-chauhan12/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Neeraj-chauhan12/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Neeraj-chauhan12/DSA/tree/master/0506-relative-ranks) |
 ## Quickselect
 |  |
 | ------- |
