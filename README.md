@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Neeraj-chauhan12/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Neeraj-chauhan12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Neeraj-chauhan12/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Neeraj-chauhan12/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Neeraj-chauhan12/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Neeraj-chauhan12/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Neeraj-chauhan12/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Neeraj-chauhan12/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/Neeraj-chauhan12/DSA/tree/master/0819-most-common-word) |
 | [1399-count-largest-group](https://github.com/Neeraj-chauhan12/DSA/tree/master/1399-count-largest-group) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Neeraj-chauhan12/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Neeraj-chauhan12/DSA/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Neeraj-chauhan12/DSA/tree/master/0318-maximum-product-of-word-lengths) |
+| [0387-first-unique-character-in-a-string](https://github.com/Neeraj-chauhan12/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Neeraj-chauhan12/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Neeraj-chauhan12/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Neeraj-chauhan12/DSA/tree/master/0500-keyboard-row) |
@@ -262,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/Neeraj-chauhan12/DSA/tree/master/0858-mirror-reflection) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Neeraj-chauhan12/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
