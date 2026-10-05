@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Neeraj-chauhan12/DSA/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Neeraj-chauhan12/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Neeraj-chauhan12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Neeraj-chauhan12/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Neeraj-chauhan12/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0189-rotate-array) |
+| [0264-ugly-number-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Neeraj-chauhan12/DSA/tree/master/0268-missing-number) |
 | [0858-mirror-reflection](https://github.com/Neeraj-chauhan12/DSA/tree/master/0858-mirror-reflection) |
 | [1399-count-largest-group](https://github.com/Neeraj-chauhan12/DSA/tree/master/1399-count-largest-group) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Neeraj-chauhan12/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Neeraj-chauhan12/DSA/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Neeraj-chauhan12/DSA/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Neeraj-chauhan12/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/Neeraj-chauhan12/DSA/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Neeraj-chauhan12/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Neeraj-chauhan12/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Neeraj-chauhan12/DSA/tree/master/0506-relative-ranks) |
